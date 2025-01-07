@@ -1,1 +1,1 @@
-# Content of index.md
+# Index
